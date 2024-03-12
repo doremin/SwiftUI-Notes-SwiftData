@@ -1,4 +1,4 @@
 # SwiftUI Notes + SwiftData
 
-SwiftUI mac os app. with dynamic color scheme.
+Simple notes app with dynamic color scheme, SwiftData + SwiftUI.
 ![](capture.gif)
